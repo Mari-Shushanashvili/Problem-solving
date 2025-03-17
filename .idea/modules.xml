@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week 1/17. Letter Combinations of a Phone Number/17. Letter Combinations of a Phone Number.iml" filepath="$PROJECT_DIR$/Week 1/17. Letter Combinations of a Phone Number/17. Letter Combinations of a Phone Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/22. Generate Parentheses/22. Generate Parentheses.iml" filepath="$PROJECT_DIR$/Week 1/22. Generate Parentheses/22. Generate Parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/39. Combination Sum/39. Combination Sum.iml" filepath="$PROJECT_DIR$/Week 1/39. Combination Sum/39. Combination Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/46. Permutations/46. Permutations.iml" filepath="$PROJECT_DIR$/Week 1/46. Permutations/46. Permutations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/78. Subsets/78. Subsets.iml" filepath="$PROJECT_DIR$/Week 1/78. Subsets/78. Subsets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/79. Word Search/79. Word Search.iml" filepath="$PROJECT_DIR$/Week 1/79. Word Search/79. Word Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Problem-solving.iml" filepath="$PROJECT_DIR$/.idea/Problem-solving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/Week 1.iml" filepath="$PROJECT_DIR$/Week 1/Week 1.iml" />
+    </modules>
+  </component>
+</project>
